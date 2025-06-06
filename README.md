@@ -3,7 +3,7 @@
 [Link](https://studio.code.org/projects/applab/1aTFF0Qfye0c6gc11EfFEPaSAZ8drs0IF7yFXAJjf3o)
 
 #### User Interface (UI)
-![UI](Interface.png)
+![UI](interface.png)
 
 ## README for Remix: Volx Browser
 Simple browser using javascript in code.org
