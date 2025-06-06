@@ -1,6 +1,9 @@
 # Volx-Browser
 Simple browser using javascript in code.org
 
+#### To try the project
+[Link](https://studio.code.org/projects/applab/1aTFF0Qfye0c6gc11EfFEPaSAZ8drs0IF7yFXAJjf3o)
+
 ## README for Remix: Volx Browser
 
 This is the README file for the Remix: Volx Browser app. It's a great place to write
