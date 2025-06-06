@@ -1,16 +1,12 @@
 # Volx-Browser
-Simple browser using javascript in code.org
-
 #### To try the project
 [Link](https://studio.code.org/projects/applab/1aTFF0Qfye0c6gc11EfFEPaSAZ8drs0IF7yFXAJjf3o)
 
 ## README for Remix: Volx Browser
+Simple browser using javascript in code.org
 
-This is the README file for the Remix: Volx Browser app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
 
-The files in this folder contain everything you need to run your app:
+**The files in this folder contain everything you need to run your app:**
 
 * `applab/applab.js` - This file contains the applab library, which has all the
   javascript that applab uses to run your app.
